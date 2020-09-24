@@ -14,13 +14,13 @@ export default createGlobalStyle`
     body {
         height: 100vh;
         margin: 0 auto;
-        background-color: #2f3136;
+        background-color: black;
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
         background-image: linear-gradient(rgba(47,49,54,.7), rgba(47,49,54,.7)), url("/assets/images/bg_code.jpg");
         background-size: cover;
-        color: #f9f9f9;
+        color: grey;
         -webkit-font-smoothimg: antialiased;
     }
 

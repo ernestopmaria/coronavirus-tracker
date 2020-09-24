@@ -35,15 +35,15 @@ const DetailsGrid = () => {
                         <tr> 
                             <th id="Country" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>
-                                Country     
+                                Países     
                             </th>
                             <th id="TotalConfirmed" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>
-                                Cases
+                                Casos
                             </th>
                             <th id="TotalRecovered" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>
-                                Recovered
+                                Recuperados
                             </th>
                             <th id="PercentRecovered" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>
@@ -51,7 +51,7 @@ const DetailsGrid = () => {
                             </th>
                             <th id="TotalDeaths" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>
-                                Deaths
+                                Mortes
                             </th>
                             <th id="PercentDeaths" onClick={handleClick}>
                                 <TiArrowUnsorted className="icon"/>

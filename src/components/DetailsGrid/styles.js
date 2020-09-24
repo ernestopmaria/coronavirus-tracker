@@ -5,7 +5,8 @@ export const Container = styled.div`
     display: flex;
     justify-content: center;
     padding: 48px;
-    animation: 1.5s ${keyframes`${fadeIn}`}; 
+    animation: 1.5s ${keyframes`${fadeIn}`};
+    color:white; 
 
     div {
         max-width: 1040px;

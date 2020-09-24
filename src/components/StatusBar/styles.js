@@ -7,12 +7,12 @@ export const Container = styled.div`
     flex-direction: column;  
     justify-content: center;
     width: 100%;
-    background-color: #36393f;
+    background-color: yellow;
 
     h2 {
         font-size: 18px;
         margin: 16px;
-        color: #a5a8ab;
+        color: black;
     }
 
     div {
@@ -22,6 +22,7 @@ export const Container = styled.div`
         align-items: center;
         justify-content: space-between;
         flex-wrap: wrap;
+        background-color: yellow;
 
         h1 {
             font-size: 16px;

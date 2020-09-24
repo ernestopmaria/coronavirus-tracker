@@ -6,7 +6,7 @@ export const Container = styled.div`
     align-items: center;
     justify-content: space-between;
     padding: 16px;
-    background-color: #202225;
+    background-color: red;
 
     main {
         display: flex;
@@ -21,7 +21,7 @@ export const Container = styled.div`
 
         h1 {
             font-size: 28px;
-            color: #43b581;
+            color:white;
         }
     }
     
@@ -34,7 +34,7 @@ export const Container = styled.div`
             transition: all .3s;
 
             &:hover {
-                color: #43b581;
+                color: grey;
             }
         }
     }

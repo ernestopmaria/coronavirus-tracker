@@ -64,7 +64,7 @@ const StatusBar = () => {
         <Container>
             <h2>{ selectedCountry 
                     ?  `${selectedCountry.Country} by total confirmed cases`
-                    : `Global cases by total confirmed`
+                    : `Total de casos confirmados`
                 }
             </h2>
             <div>

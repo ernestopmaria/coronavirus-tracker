@@ -8,7 +8,7 @@ const CountryDetail = ({
         TotalConfirmed,
         TotalDeaths,
         TotalRecovered,
-        NewConfirmed,
+        NewConfirmedos,
         NewDeaths,
         NewRecovered, 
         PercentRecovered, 
